@@ -1,6 +1,6 @@
 # Langtons-Ant
 
-Basic form and Variations of Langton's Ant, with gui.
+Basic form and Variations of Langton's Ant, with GUI.
 
 ## Abstract
 
