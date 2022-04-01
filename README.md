@@ -2,8 +2,6 @@
 
 University of Patras project for "Introduction to the science of Electrical Engineering" from the second semester.
 
->Developer: Foivos Paraskevas
-
 ## Abstract
 
 Langton’s ant is an example of “Cellular Automata”, which means that in its most simple form it can be 
