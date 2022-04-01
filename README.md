@@ -1,6 +1,6 @@
 # Langtons-Ant
 
-University of Patras project for "Introduction to the science of Electrical Engineering" from the second semester.
+Basic form and Variations of Langton's Ant, with gui.
 
 ## Abstract
 
