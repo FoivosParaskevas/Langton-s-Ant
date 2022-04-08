@@ -1,8 +1,8 @@
-# Langtons-Ant
+# Langtons Ant
 
 Basic form and Variations of Langton's Ant, with GUI.
 
-## Abstract
+## Description
 
 Langton’s ant is an example of “Cellular Automata”, which means that in its most simple form it can be 
 found in two different states, black and white, that are defined from two rules. If the ant is on a white 
@@ -17,3 +17,6 @@ conditions then the whole course changes and ends up being totally different.
 
 - python 3.8.10
 - pyautogui
+
+## Getting Started
+
