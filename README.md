@@ -15,8 +15,9 @@ conditions then the whole course changes and ends up being totally different.
 
 ## Dependency
 
-- python 3.8.10
-- pyautogui
+- python 3.8.13
+- pyautogui 0.9.53
 
 ## Getting Started
 
+The programm runs just by running the code. When started a GUI is going to show on your screen with different buttons, each one having a different use.
